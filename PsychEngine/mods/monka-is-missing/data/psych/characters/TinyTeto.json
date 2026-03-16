@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [69, 83],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [49, 125],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [64, 118],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [16, 103],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-2, 124],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [68, 81],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [36, 119],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [62, 116],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [10, 102],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSright",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/TinyTeto",
+	"position": [-190, 180],
+	"healthicon": "teto",
+	"flip_x": true,
+	"healthbar_colors": [209, 19, 48],
+	"camera_position": [10, 30],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}

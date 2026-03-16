@@ -1,0 +1,7 @@
+{
+    "name": "Monka Is Missing",
+    "description": "A FNF mod featuring Monka and friends.",
+    "restart": false,
+    "runsGlobally": true,
+    "color": [255, 0, 0]
+}

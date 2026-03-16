@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-28, -161],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-39, -116],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-8, -118],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [189, -51],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [-17, -117],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [320, -70],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "DAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [307, -58],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "RAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [348, -73],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "LAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [345, -13],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "UAlt",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Osaka",
+	"position": [-60, 10],
+	"healthicon": "osaka",
+	"flip_x": false,
+	"healthbar_colors": [40, 1, 0],
+	"camera_position": [40, 260],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}
